@@ -1,0 +1,51 @@
+name: Vehicle weapons
+type: skill
+img: >-
+  modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/cra_vehicleweapons.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  description: >-
+    <p><em><span class="fontstyle0">Specializations: </span><span
+    class="fontstyle2">Type or model of vehicle-mounted blaster &mdash;
+    </span><span class="fontstyle0">heavy blaster cannon, heavy laser cannon,
+    light blaster cannon, light laser cannon, medium blaster cannon, medium
+    laser cannon</span><span class="fontstyle2">.</span></em></p>
+
+    <p><span class="fontstyle0">Vehicle blasters </span><span
+    class="fontstyle2">is the &ldquo;ranged combat&rdquo; skill used to fire
+    vehicle-mounted energy weapons, especially those that are speeder- or
+    walker-scale. (The weapon&rsquo;s description will list which skill it
+    uses.) </span><span class="fontstyle0">Vehicle blasters </span><span
+    class="fontstyle2">can also be used to fire speeder- or walker-scale weapons
+    mounted on starships.</span> <br style="font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;" /><br
+    /></p>
+  labels: {}
+  tags: []
+  attribute: mec
+  min: false
+  base: 0
+  mod: 0
+  score: 0
+  time_taken: One round.
+  label: OD6S.CHAR_SKILLS
+_stats:
+  systemId: od6s
+  systemVersion: 0.8.4
+  coreVersion: '11.315'
+  createdTime: 1705682401574
+  modifiedTime: 1705688120035
+  lastModifiedBy: 3N1lcxUj8QTVW3aF
+_id: QYsXljA8IdDg3ETW
+sort: 0
+ownership:
+  default: 0
+  3N1lcxUj8QTVW3aF: 3
+_key: '!items!QYsXljA8IdDg3ETW'
+
