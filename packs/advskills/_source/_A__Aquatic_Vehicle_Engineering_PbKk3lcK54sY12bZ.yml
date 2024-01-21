@@ -1,0 +1,41 @@
+_id: PbKk3lcK54sY12bZ
+name: (A) Aquatic Vehicle Engineering
+type: skill
+img: >-
+  modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/a_cra_aquaticvehicleengineering.svg
+effects: []
+folder: null
+sort: 400000
+flags:
+  core:
+    sourceId: Compendium.od6s.skills.F50s1gJDybqcmS8g
+system:
+  description: >-
+    <p><span class="fontstyle0"><strong style="font-family: var(--font-primary);
+    font-size: var(--font-size-14);">Advanced skill --
+    requires</strong><strong>&nbsp;4D in </strong></span><strong><span
+    class="fontstyle2"><em>aquatic vehicle repair</em>.</span></strong></p>
+
+    <p><span class="fontstyle0">This skill allows for the design of various
+    aquatic vehicles and aquatic vehicle systems.</span></p>
+  labels: {}
+  tags: []
+  attribute: mec
+  min: false
+  base: 0
+  mod: 0
+  score: 0
+  time_taken: various
+  label: OD6S.CHAR_SKILLS
+ownership:
+  default: 0
+  uw16b8PR8Y6FGcPN: 3
+_stats:
+  systemId: od6s
+  systemVersion: 0.8.5
+  coreVersion: '11.315'
+  createdTime: null
+  modifiedTime: 1705857440234
+  lastModifiedBy: 3N1lcxUj8QTVW3aF
+_key: '!items!PbKk3lcK54sY12bZ'
+
