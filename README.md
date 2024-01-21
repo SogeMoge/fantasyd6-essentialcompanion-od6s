@@ -21,15 +21,26 @@ This module includes options to apply REUP + homebrewed D6 Fantasy labels and ru
 This module contains compendium packs for the following Star Wars D6 content:
 
 - Skills & Advanced Skills (To-Do)
+- Weapons and Armor (To-Do)
 - Magic spells and Miracles (To-Do)
 - Character Templates from D6 Fantasy rulebook (To-Do)
-- Weapons and Armor (To-Do)
 - Assorted Helpful Macros (To-Do)
 - Typical Gamemaster Characters (To-Do)
 
 **Note:** The Advanced skills need manual editing to set the initial value to 1D by players/GMs. This is done by setting negative values on the skill sheet. Automatic advancement does not take into effect their doubled character point cost, nor will they add their value back onto their prerequisite skills automatically.
 
 **Note:** Importing a character template can take up to a minute as it searches for all the skills and items.
+
+### Skill background colors:
+
+| Attribute  |  Hex   |
+| :--------: | :----: |
+| Dexterity  | 029C48 |
+| Knowledge  | F58A02 |
+|   Craft    | 4B57CC |
+| Perception | FFD23D |
+|  Strength  | 9D0101 |
+|   Talent   | EB82FF |
 
 ## 👨‍⚖️ Disclaimers
 
