@@ -1,3 +1,10 @@
 node_modules
 build
 dist
+packs/advskills
+packs/armor
+packs/chartemplates
+packs/metaskills
+packs/miracles
+packs/spells
+packs/weapons
