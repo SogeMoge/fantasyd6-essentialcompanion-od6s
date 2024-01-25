@@ -20,7 +20,7 @@ This module includes options to apply REUP + homebrewed D6 Fantasy labels and ru
 
 This module contains compendium packs for the following Star Wars D6 content:
 
-- Skills & Advanced Skills (To-Do)
+- Skills & Advanced Skills
 - Weapons and Armor (To-Do)
 - Magic spells and Miracles (To-Do)
 - Character Templates from D6 Fantasy rulebook (To-Do)

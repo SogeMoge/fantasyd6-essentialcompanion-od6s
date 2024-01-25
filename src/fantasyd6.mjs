@@ -132,6 +132,7 @@ class ConfigureOpenD6Options extends FormApplication {
 		await game.settings.set('od6s', 'fate_point_climactic', true);
 		await game.settings.set('od6s', 'strength_damage', false);
 		await game.settings.set('od6s', 'metaphysics_attribute_optional', false);
+		await game.settings.set('od6s', 'show_metaphysics_attributes', true);
 		await game.settings.set('od6s', 'dice_for_scale', true);
 		await game.settings.set('od6s', 'sensors', false);
 		await game.settings.set('od6s', 'vehicle_difficulty', true);
