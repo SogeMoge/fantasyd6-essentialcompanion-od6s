@@ -1,0 +1,12 @@
+{
+  "label": "Metaphysics Skills",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "(A) Air Transport Engineering": {
+      "name": "(A) Воздух",
+      "description": "<p>translation</p>"
+    }
+  }
+}

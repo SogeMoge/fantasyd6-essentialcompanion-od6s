@@ -38,6 +38,11 @@
 				"compatibility": {
 					"verified": "31.7.17"
 				}
+			},
+			{
+				"id": "babele",
+				"type": "module",
+				"compatibility": {}
 			}
 		]
 	},

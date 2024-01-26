@@ -4,13 +4,13 @@ This is using an HTML template processor called Handlebars
 https://handlebarsjs.com/guide/
 
 --}}
-<form id="swd6-config">
+<form id="fd6-config">
 	<p>{{localize 'fantasyd6.form.desc'}}</p>
 
 	<section>
 		{{#each options}}
-		<input id="swd6.{{id}}" name="{{id}}" type="checkbox" {{#if on}}checked{{/if}} />
-		<label for="swd6.{{id}}">{{localize desc}}</label>
+		<input id="fd6.{{id}}" name="{{id}}" type="checkbox" {{#if on}}checked{{/if}} />
+		<label for="fd6.{{id}}">{{localize desc}}</label>
 		{{/each}}
 	</section>
 

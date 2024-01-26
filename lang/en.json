@@ -7,8 +7,8 @@
 			"cancel": "Cancel",
 			"submit": "Submit",
 			"labels": "Update Labels",
-			"fields": "Add Custom Fields (This adds Darkness Points)",
-			"deadly": "Deadliness Options (This affects the Health Estimate Module)",
+			"fields": "Add custom \"Darkness Points\" and \"Strength damage\" fields",
+			"deadly": "Update Deadliness Options and Estimates (For Health Estimate Module)",
 			"rules": "Change Rules Options"
 		},
 		"customize_fate_points": "Fate Points",
@@ -44,15 +44,29 @@
 		"customize_technical_name": "Talent",
 		"customize_technical_name_short": "TAL",
 		"brawl_attribute": "str",
-		"cost_price": "Show Funds on the actor sheet and use for purchasing.",
-		"health_estimations": [
-			"Dead",
-			"Mortally Wounded",
-			"Incapacitated",
-			"Severely Wounded",
-			"Wounded",
-			"Stunned",
-			"Healthy"
-		]
+		"cost_price": "Show Funds on the actor sheet and use for purchasing."
+	},
+	"healthEstimate": {
+		"core": {
+			"estimations": {
+				"default": {
+					"0": "Dead",
+					"1": "Mortally Wounded",
+					"25": "Incapacitated",
+					"50": "Severely Wounded",
+					"75": "Wounded",
+					"99": "Stunned",
+					"100": "Healthy"
+				},
+				"vehichle": {
+					"0": "Wrecked",
+					"20": "Flaming",
+					"40": "Smoking",
+					"60": "Battered",
+					"80": "Stunned",
+					"100": "Healthy"
+				}
+			}
+		}
 	}
 }
