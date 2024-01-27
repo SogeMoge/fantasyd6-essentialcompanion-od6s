@@ -1,0 +1,37 @@
+{
+  "name": "Siege weapons",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/cra_siegeweapons.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">The particular type or model of siege weapon.</span></em></p>\n<p><span class=\"fontstyle0\">Siege weapons </span><span class=\"fontstyle2\">is the &ldquo;ranged combat&rdquo; skill used to fire and reload all heavy projectile weapons, such as cannons, trebuchets and catapultas</span><span class=\"fontstyle2\">.&nbsp;</span></p>\n<p><span class=\"fontstyle0\">The time taken to use this skill is often one or more rounds and involves multiple people.<br></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706223009921,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "k7Head3vOis5AlQq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!k7Head3vOis5AlQq"
+}

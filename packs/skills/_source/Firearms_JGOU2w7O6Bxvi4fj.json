@@ -1,0 +1,37 @@
+{
+  "name": "Firearms",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/dex_firearms.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Indicates a specific kind or model of powder gun &mdash; pistol, arquebus, musket</span></em></p>\n<p><span class=\"fontstyle2\"><br>Archaic guns is a &ldquo;ranged combat&rdquo; skill used to fire any primitive gun, including black powder pistols, flintlocks and muskets.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One Round",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706216367973,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "JGOU2w7O6Bxvi4fj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!JGOU2w7O6Bxvi4fj"
+}

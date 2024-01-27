@@ -1,0 +1,37 @@
+{
+  "name": "Animal handling",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/cra_animalhandling.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Particular animal &mdash; </span><span class=\"fontstyle0\">dogs, wolves, horses, bears etc.&nbsp;</span></em></p>\n<p>Controlling animals and making them&nbsp;perform tricks and follow commands.</p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705615177027,
+    "modifiedTime": 1706215082202,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "GBtxgvvMF64EIXGY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!GBtxgvvMF64EIXGY"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Legends",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/kno_legends.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><span class=\"fontstyle2\">This skill reflects knowledge of legends and their possible connections to the real wold events and characters.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round to one day or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705614468315,
+    "modifiedTime": 1706220257880,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "h78bgEcTFxdp3tHg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!h78bgEcTFxdp3tHg"
+}

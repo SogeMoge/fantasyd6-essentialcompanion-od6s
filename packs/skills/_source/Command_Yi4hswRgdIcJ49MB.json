@@ -1,0 +1,37 @@
+{
+  "name": "Command",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/tal_command.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Leader&rsquo;s unit &mdash; type of troops (guards, soldiers, cavalry, etc.)</span></em></p>\n<p><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">is a measure of a character&rsquo;s ability to convince gamemaster characters and subordinates to do what they&rsquo;re told. </span><span class=\"fontstyle0\">Command </span><span class=\"fontstyle2\">generally shouldn&rsquo;t be used against other player characters to force them to do something against their will &mdash; these situations should be handled through roleplaying interaction.</span></p>\n<p><span class=\"fontstyle2\">A high </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can complement individual participants&rsquo; rolls in a group activity, while a low </span><span class=\"fontstyle0\">command </span><span class=\"fontstyle2\">roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.</span></p>\n<p><span class=\"fontstyle2\">The skill is often used in combat situations, such as a squad leader commanding his troops or a Battleship captain telling his gunners which enemy ship to target.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>\n<p><span class=\"fontstyle0\">When a character uses </span><span class=\"fontstyle2\">command</span><span class=\"fontstyle0\">, determine a difficulty number.<br></span><span class=\"fontstyle3\"><strong>&bull; Very Easy:</strong> </span><span class=\"fontstyle0\">Characters have every reason to obey.&nbsp;<br></span><span class=\"fontstyle3\"><strong>&bull; Easy:</strong> </span><span class=\"fontstyle0\">Characters have some reason to obey.<br></span><span class=\"fontstyle3\"><strong>&bull; Moderate:</strong> </span><span class=\"fontstyle0\">Characters have no reason to disobey.<br></span><strong><span class=\"fontstyle3\">&bull; Difficult: </span></strong><span class=\"fontstyle0\">Characters are skeptical or suspicious.<br></span><span class=\"fontstyle3\"><strong>&bull; Very Difficult:</strong> </span><span class=\"fontstyle0\">Characters have every reason to be suspicious.<br></span><strong><span class=\"fontstyle3\">&bull; Heroic: </span></strong><span class=\"fontstyle0\">Characters have no reason at all to listen to you.<br></span></p>\n<p><span class=\"fontstyle2\">Command </span><span class=\"fontstyle0\">is also used when coordinating projects with many workers, such as manufacturing ships in space dock and other complex operations. See the&nbsp; sections on &ldquo;Combined Actions&rdquo; in the chapter on &ldquo;The Rules.&rdquo;</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "tec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706215828510,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "Yi4hswRgdIcJ49MB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!Yi4hswRgdIcJ49MB"
+}

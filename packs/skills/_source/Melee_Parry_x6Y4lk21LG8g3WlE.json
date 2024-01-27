@@ -1,0 +1,37 @@
+{
+  "name": "Melee Parry",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/dex_meleeparry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Type of melee weapon used.</span></em></p>\n<p><span class=\"fontstyle0\">Melee parry </span><span class=\"fontstyle2\">is the &ldquo;reaction skill&rdquo; used if a character has a melee weapon and is attacked by someone with a </span><span class=\"fontstyle0\">melee combat or</span><span class=\"fontstyle2\">&nbsp;</span><span class=\"fontstyle0\">brawling</span><span class=\"fontstyle0\">&nbsp;</span><span class=\"fontstyle2\">attack. (Melee parry can&rsquo;t be used to parry projectile attacks &mdash; that&rsquo;s&nbsp;</span><span class=\"fontstyle0\">dodge.</span><span class=\"fontstyle2\">)</span></p>\n<p><span class=\"fontstyle0\">If your character is defending against someone who is unarmed and doesn&rsquo;t have sharp natural weapons, the defender gets a +5 bonus modifier to his </span><span class=\"fontstyle2\">melee parry </span><span class=\"fontstyle0\">roll.</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">&nbsp;(REUP P90)</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706220711052,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "x6Y4lk21LG8g3WlE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!x6Y4lk21LG8g3WlE"
+}

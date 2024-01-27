@@ -1,0 +1,39 @@
+{
+  "_id": "Xu5oSYIksnqj3kHd",
+  "name": "(A) Air Transport Engineering",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/a_cra_airtransportengineering.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 700000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.od6s.skills.F50s1gJDybqcmS8g"
+    }
+  },
+  "system": {
+    "description": "<p><span class=\"fontstyle0\"><strong style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Advanced skill -- requires</strong><strong>&nbsp;5D in </strong></span><strong><span class=\"fontstyle2\"><em>air transports repair</em>. </span></strong></p>\n<p><span class=\"fontstyle0\">This skill allows the design of various air transports and air transport systems.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "mec",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "various",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "ownership": {
+    "default": 0,
+    "uw16b8PR8Y6FGcPN": 3
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1706224026851,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_key": "!items!Xu5oSYIksnqj3kHd"
+}

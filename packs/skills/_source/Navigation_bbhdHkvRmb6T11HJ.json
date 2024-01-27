@@ -1,0 +1,37 @@
+{
+  "name": "Navigation",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/kno_navigation.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Time Taken: </span><span class=\"fontstyle2\">One minute when your position is known and you are following a commonly-traveled route (can be reduced to one round in emergencies). A few hours when your position is known, but your destination is one to which you have not traveled before. One day when you must determine your current position and then calculate coordinates.</span></em></p>\n<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific trade route or type of&nbsp; terrain</span><span class=\"fontstyle2\">.</span></em></p>\n<p>Determining the correct course using external&nbsp;reference points, such as stars, maps, or landmarks, as well as&nbsp;creating maps.<br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One minute or longer.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706220922785,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "bbhdHkvRmb6T11HJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!bbhdHkvRmb6T11HJ"
+}

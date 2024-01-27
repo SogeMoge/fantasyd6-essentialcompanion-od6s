@@ -1,0 +1,37 @@
+{
+  "name": "Languages",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/kno_languages.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific language known - elvish, dwarven</span><span class=\"fontstyle0\">.</span></em></p>\n<p>Familiarity with and ability to understand various forms of verbal communication. Characters know the Trade&nbsp;Speech (assuming the setting has one) and one \"native\" language&nbsp;in which they have spoken fluency. Additional languages in which&nbsp;a character has proficiency can be represented by specializations&nbsp;of this skill.</p>\n<p><span class=\"fontstyle2\">The </span><span class=\"fontstyle0\">languages </span><span class=\"fontstyle2\">skill is used to determine whether or not a character understands something in another language. If the character wants to say something in a language in which he isn&rsquo;t fluent (see &ldquo;specialization&rdquo; below) increase the difficulty by two levels.</span></p>\n<p><span class=\"fontstyle2\"><span class=\"fontstyle0\"><strong>Specialization: </strong>Characters may specialize in a specific language. Once the character has 5D in the specialized language, the character is considered fluent in the language and no longer has to make rolls to understand anything in that language.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"></span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "kno",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706217381804,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "bJHfchLn0XXHrZZQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!bJHfchLn0XXHrZZQ"
+}

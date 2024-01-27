@@ -1,0 +1,37 @@
+{
+  "name": "Projectile weapons",
+  "type": "skill",
+  "img": "modules/fantasyd6-essentialcompanion-od6s/art/items/skillIcons/dex_projectileweapons.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "<p><em><span class=\"fontstyle0\">Specializations: </span><span class=\"fontstyle2\">Specific type or model bow &mdash; hand, light, heacy or siege </span><span class=\"fontstyle0\">crossbow, long or short bow, sling.</span></em></p>\n<p><span class=\"fontstyle0\">Bows </span><span class=\"fontstyle2\">is a &ldquo;ranged combat&rdquo; skill covering all bow-type and projectile shooting weapons.</span></p>",
+    "labels": {},
+    "tags": [],
+    "attribute": "agi",
+    "min": false,
+    "base": 0,
+    "mod": 0,
+    "score": 0,
+    "time_taken": "One round.",
+    "label": "OD6S.CHAR_SKILLS"
+  },
+  "_stats": {
+    "systemId": "od6s",
+    "systemVersion": "0.9.1",
+    "coreVersion": "11.315",
+    "createdTime": 1705682401574,
+    "modifiedTime": 1706221073380,
+    "lastModifiedBy": "3N1lcxUj8QTVW3aF"
+  },
+  "_id": "EEMHbBuXwyRtbDDm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "3N1lcxUj8QTVW3aF": 3
+  },
+  "_key": "!items!EEMHbBuXwyRtbDDm"
+}
